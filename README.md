@@ -17,3 +17,11 @@ Projects completed during training
 * DOM Elements
 * Event Listener
 * Parallax effect
+
+### Email
+* Email form
+* DOM Elements
+* Event Listener
+* Validate form
+* Disable/Enable button
+* Timer

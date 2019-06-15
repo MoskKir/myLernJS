@@ -25,3 +25,12 @@ Projects completed during training
 * Validate form
 * Disable/Enable button
 * Timer
+
+### Insurance
+* Insurance calculation form
+* DOM Elements
+* Event Listener
+* Objects
+* Create prototype
+* Date  
+* Timer

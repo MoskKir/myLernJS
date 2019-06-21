@@ -48,5 +48,6 @@ Projects completed during training
 
 ### AJAXJSON
 * Two button and
+* Create .JSON files
 * AJAX request from .JSON files 
 * Work with object and array objects

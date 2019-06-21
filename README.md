@@ -41,3 +41,6 @@ Projects completed during training
 * Event Listener
 * Timer
 * Work with classes
+
+### AJAX
+* AJAX request from .txt file

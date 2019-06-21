@@ -34,3 +34,10 @@ Projects completed during training
 * Create prototype
 * Date  
 * Timer
+
+### WeekBudget
+* cost accounting app
+* DOM Elements
+* Event Listener
+* Timer
+* Work with classes

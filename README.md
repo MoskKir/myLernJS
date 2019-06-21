@@ -43,4 +43,5 @@ Projects completed during training
 * Work with classes
 
 ### AJAX
+* one button and
 * AJAX request from .txt file

@@ -36,12 +36,17 @@ Projects completed during training
 * Timer
 
 ### WeekBudget
-* cost accounting app
+* Cost accounting app
 * DOM Elements
 * Event Listener
 * Timer
 * Work with classes
 
 ### AJAX
-* one button and
+* One button and
 * AJAX request from .txt file
+
+### AJAXJSON
+* Two button and
+* AJAX request from .JSON files 
+* Work with object and array objects

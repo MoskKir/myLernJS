@@ -56,3 +56,11 @@ Projects completed during training
 * One button
 * Work with API https://jsonplaceholder.typicode.com/
 * JSON parse 
+
+### Kinopoisk-client
+* One button
+* Work with API http://themoviedb.org
+* JSON parse
+* DOM Elements
+* Search form
+

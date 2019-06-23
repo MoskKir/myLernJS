@@ -51,3 +51,8 @@ Projects completed during training
 * Create .JSON files
 * AJAX request from .JSON files 
 * Work with object and array objects
+
+### JSONAPI
+* One button
+* Work with API https://jsonplaceholder.typicode.com/
+* JSON parse 

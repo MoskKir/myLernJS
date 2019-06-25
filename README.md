@@ -64,3 +64,11 @@ Projects completed during training
 * DOM Elements
 * Search form
 
+### NameGenerator
+* Work with API https://uinames.com/api/
+* Form
+
+
+
+
+

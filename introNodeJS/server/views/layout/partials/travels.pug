@@ -1,0 +1,15 @@
+.row.upcoming-travels
+            each travel in travels
+                    .col-md-6.col-lg-4.md-4
+                        .card.my-2
+                            img.card-img-top.img-fluid(src=`/img/destiny_${travel.image}.jpg`)
+                            .card-body  
+                                h2=travel.title
+                                p
+                                    i.fas.fa-calendar-alt 
+                                    |   Departure Date #{travel.departure_date} - Return Date #{travel.return_date}
+                                p
+                                    i.fas.fa-dollar-sign
+                                    |   #{travel.price}
+                                p=travel.description.substr(0, 100)
+                                a.btn.btn-success.btn-block(href=`travels/${travel.id}`) More Information

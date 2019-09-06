@@ -1,0 +1,19 @@
+extends ../layout/index
+
+block content   
+    main.container.mt-5
+        .row    
+            .col-md-5
+                img.img-fluid(src=`/img/destiny_${travel.image}_ln.jpg`, alt="Travel image")
+            .col-md-7
+                h1=travel.title
+                p
+                    i.fas.fa-calendar-alt 
+                    |   Departure Date #{travel.departure_date} - Return Date #{travel.return_date}
+                p
+                    i.fas.fa-dollar-sign
+                    |   #{travel.price}
+                p
+                    i.fas.fa-users
+                    |   #{travel.available} Available Seats
+                p=travel.description

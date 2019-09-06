@@ -1,0 +1,12 @@
+header  
+    div.main-nav
+        .container
+            .row.justify-content-center.justify-content-md-between.aling-items-center.py-4
+                .col-6.col-md-4
+                    a(href="/")
+                        img.logo(src="/img/logo.svg", alt="logo")
+                .col-md-8
+                    nav.nav.justify-content-center.justify-content-md-end
+                        a.nav-link(href="/about", class=(currentPage === '/about' ? 'active' : '')) About Us
+                        a.nav-link(href="/travels", class=(currentPage === '/travels' ? 'active' : '')) Upcoming Travels
+                        a.nav-link(href="/testimonials", class=(currentPage === '/testimonials' ? 'active' : '')) Testimonials

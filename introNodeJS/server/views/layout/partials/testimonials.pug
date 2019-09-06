@@ -1,0 +1,12 @@
+blockquote.text-center Read the Experiences from Our Client
+                .row.testimonials
+                    if(testimonials)
+                        each testimonial in testimonials
+                            .col-md-6.col-lg-4.md-4
+                                .card
+                                    .card-body
+                                        blockquote.blockquote
+                                            p.md-0
+                                                | #{testimonial.message}
+                                        footer.blockquote-footer
+                                            | #{testimonial.name}

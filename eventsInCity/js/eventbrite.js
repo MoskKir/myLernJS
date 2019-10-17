@@ -20,7 +20,8 @@ class EventBrite {
         const categoriesResponse = await fetch (`https://www.eventbriteapi.com/v3/categories/?token=${this.auth_token}`);
         // Hold for the response and then return as json
         const categories = await categoriesResponse.json();
-
+        console.log(categories);
+        
         return {
             categories
         }
